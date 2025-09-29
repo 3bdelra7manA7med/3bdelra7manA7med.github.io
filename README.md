@@ -1,1 +1,0 @@
-# 3bdelra7manA7med.github.io
