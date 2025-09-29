@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "Abdelrahman Ahmed",
   title: "Full-Stack Developer",
-  email: "abdelrahman@example.com",
+  email: "abd0ahmedx4x@gmail.com",
   github: "https://github.com/3bdelra7manA7med",
   linkedin: "https://linkedin.com/in/abdelrahman-ahmed",
   bio: "Passionate full-stack developer with expertise in modern web technologies. I love creating innovative solutions and building user-friendly applications.",
@@ -50,39 +50,39 @@ export const aboutInfo = {
 export const projects = [
   {
     id: 1,
-    title: "E-Commerce Platform",
-    description: "A full-featured e-commerce platform built with Next.js, Stripe integration, and MongoDB. Features include user authentication, product management, and order processing.",
-    technologies: ["Next.js", "TypeScript", "MongoDB", "Stripe", "Tailwind CSS"],
-    liveUrl: "https://example-ecommerce.vercel.app",
-    githubUrl: "https://github.com/3bdelra7manA7med/ecommerce-platform",
-    image: "/images/project1.jpg"
+    title: "Coming Soon",
+    description: "Exciting new project in development. Stay tuned for updates!",
+    technologies: ["React", "TypeScript", "Next.js"],
+    liveUrl: "#",
+    githubUrl: "#",
+    image: "/images/coming-soon.jpg"
   },
   {
     id: 2,
-    title: "Task Management App",
-    description: "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
-    technologies: ["React", "Node.js", "Socket.io", "PostgreSQL", "Material-UI"],
-    liveUrl: "https://task-manager-demo.vercel.app",
-    githubUrl: "https://github.com/3bdelra7manA7med/task-manager",
-    image: "/images/project2.jpg"
+    title: "Coming Soon",
+    description: "Another amazing project currently being built. More details coming soon!",
+    technologies: ["Node.js", "MongoDB", "Express"],
+    liveUrl: "#",
+    githubUrl: "#",
+    image: "/images/coming-soon.jpg"
   },
   {
     id: 3,
-    title: "Weather Dashboard",
-    description: "A responsive weather dashboard that provides current conditions, forecasts, and weather maps using external APIs.",
-    technologies: ["JavaScript", "HTML5", "CSS3", "Weather API", "Chart.js"],
-    liveUrl: "https://weather-dashboard-demo.netlify.app",
-    githubUrl: "https://github.com/3bdelra7manA7med/weather-dashboard",
-    image: "/images/project3.jpg"
+    title: "Coming Soon",
+    description: "Innovative solution in the works. Check back later for the full reveal!",
+    technologies: ["Python", "AI/ML", "TensorFlow"],
+    liveUrl: "#",
+    githubUrl: "#",
+    image: "/images/coming-soon.jpg"
   },
   {
     id: 4,
-    title: "Blog Platform",
-    description: "A modern blog platform with markdown support, commenting system, and admin dashboard for content management.",
-    technologies: ["Next.js", "Prisma", "PostgreSQL", "NextAuth.js", "Tailwind CSS"],
-    liveUrl: "https://blog-platform-demo.vercel.app",
-    githubUrl: "https://github.com/3bdelra7manA7med/blog-platform",
-    image: "/images/project4.jpg"
+    title: "Coming Soon",
+    description: "Revolutionary web application under development. Coming soon to showcase!",
+    technologies: ["Vue.js", "Firebase", "PWA"],
+    liveUrl: "#",
+    githubUrl: "#",
+    image: "/images/coming-soon.jpg"
   }
 ];
 

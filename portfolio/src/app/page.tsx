@@ -31,11 +31,6 @@ export default function Home() {
                 </Link>
               </div>
             </div>
-            <div className={styles.heroAvatar}>
-              <div className={styles.avatarPlaceholder}>
-                <span>{personalInfo.name.charAt(0)}</span>
-              </div>
-            </div>
           </div>
         </div>
       </section>
@@ -75,21 +70,21 @@ export default function Home() {
           <h3 className={styles.sectionTitle}>Featured Projects</h3>
           <div className={styles.projectsGrid}>
             <div className={styles.projectCard}>
-              <h4>E-Commerce Platform</h4>
-              <p>Full-featured online store with payment integration</p>
+              <h4>Coming Soon</h4>
+              <p>Exciting new project in development. Stay tuned!</p>
               <div className={styles.projectTech}>
-                <span>Next.js</span>
+                <span>React</span>
                 <span>TypeScript</span>
-                <span>Stripe</span>
+                <span>Next.js</span>
               </div>
             </div>
             <div className={styles.projectCard}>
-              <h4>Task Management App</h4>
-              <p>Collaborative workspace with real-time updates</p>
+              <h4>Coming Soon</h4>
+              <p>Another amazing project currently being built!</p>
               <div className={styles.projectTech}>
-                <span>React</span>
                 <span>Node.js</span>
-                <span>Socket.io</span>
+                <span>MongoDB</span>
+                <span>Express</span>
               </div>
             </div>
           </div>
